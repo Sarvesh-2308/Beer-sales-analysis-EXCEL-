@@ -1,0 +1,35 @@
+Retailer: The name of the retailer or store selling the beer.
+Example Values: ABC Liquors, Beer World, The Brew House
+  
+Retailer ID: A unique identifier assigned to each retailer.
+Example Values: RET001, RET002, RET003
+  
+Invoice Date: The date on which the sale transaction was recorded.
+Example Values: 2024-01-15, 2024-07-22
+  
+Region: The larger geographic area where the sale occurred, often encompassing multiple states or cities.
+Example Values: Northeast, Midwest, West Coast
+  
+State: The state or province where the retailer is located.
+Example Values: New York, California, Illinois
+  
+City: The specific city where the retailer is located.
+Example Values: New York City, Los Angeles, Chicago
+  
+Beer Brands: The brand or type of beer sold.
+Example Values: Budweiser, Heineken, Guinness
+  
+Price per Unit: The selling price for each unit of beer.
+Example Values: $5.00, $6.50, $7.00
+  
+Units Sold: The number of units sold in the transaction.
+Example Values: 100 bottles, 50 kegs
+  
+Total Sales: The total revenue generated from the sale of beer, calculated as Price per Unit * Units Sold.
+Example Values: $500.00, $325.00
+  
+Operating Profit: The profit earned from the sale after accounting for costs but before taxes and interest.
+Example Values: $200.00, $150.00
+  
+Operating Margin: The percentage of sales revenue that represents operating profit, calculated as (Operating Profit / Total Sales) * 100.
+Example Values: 40%, 30%
